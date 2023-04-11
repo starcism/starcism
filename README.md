@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=900020&height=180&section=header&text=S%20angmoon-nl-tarcism&fontSize=90)
