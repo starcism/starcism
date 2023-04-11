@@ -1,6 +1,6 @@
 Choi Sangmoon
 
-<a href="https://hill-citrine-155.notion.site/b81d301af449488b8c7b0a009c975567" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
+<a href="https://hill-citrine-155.notion.site/b81d301af449488b8c7b0a009c975567" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
 
 
 
