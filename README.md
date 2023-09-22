@@ -11,3 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-BB2649?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-10556E?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/React-138EBA?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-6E0B22?style=for-the-badge&logo=Next.js&logoColor=white">
 </p>
+<p>
+  <img src="https://img.shields.io/badge/AWSLambda-FF9900?style=for-the-badge&logo=AWSLambda&logoColor=white"> <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white"> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white">
+</p>
